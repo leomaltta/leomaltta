@@ -15,7 +15,6 @@ I'm passionate about building scalable solutions and solving complex problems. C
 **Current:**
 - Frontend: React, Next.js, TypeScript
 - Backend: Node.js
-- Tools: Git, Docker, REST APIs
 
 **Learning & Exploring:**
 - Data Structures & Algorithms
