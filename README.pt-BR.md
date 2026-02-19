@@ -15,7 +15,6 @@ Sou apaixonado por construir soluções escaláveis e resolver problemas complex
 **Atual:**
 - Frontend: React, Next.js, TypeScript
 - Backend: Node.js
-- Ferramentas: Git, Docker, APIs REST
 
 **Aprendendo & Explorando:**
 - Estruturas de Dados & Algoritmos
